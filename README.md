@@ -1,4 +1,4 @@
 # DeepText
-Text Classification Using Deep Learning Models
+Text Classification Using Machine and Deep Learning Models
 
-1. Using Convolution Neural Networks
+1. Using Random Forests
